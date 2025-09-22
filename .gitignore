@@ -6,10 +6,4 @@ env/
 __pycache__/
 *.pyc
 
-# Django files
-db.sqlite3
-*.log
-*.pot
 
-# IDE / Editor files
-.vscode/
